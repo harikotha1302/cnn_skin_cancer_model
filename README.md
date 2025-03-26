@@ -60,7 +60,7 @@ The break down of the final provided CNN architecture step by step:
 
 ## Model Evaluation
 
-![Model Evaluation](./model_evaluation.png)
+![Model Evaluation](./model_evaluation.jpg)
 
 ## Technologies Used
 - python - 3.11.11
